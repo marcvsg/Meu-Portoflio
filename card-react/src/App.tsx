@@ -7,7 +7,7 @@ console.log("Olá dev!");
   return (
     <>
       <div className='header'>
-        <img className='pfp' src="./public/img/me.jpeg" alt="Foto de Marcus" />
+        <img className='pfp' src="/img/me.jpeg" alt="Foto de Marcus" />
         <h1>Marcus Gomes</h1>
          <p>27 Anos, Rio de Janeiro - Brasil</p>
         <ul className='list-socials'>
